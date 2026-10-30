@@ -1,0 +1,23 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+users.db
+*.db-journal
+.env
+.env.*
+data/
+docker-build-log.txt
+.streamlit/secrets.toml
+screening_history.db
+screening_history.db-*
+# Additional protection
+users.db-*
+*.db
+*.db-*
+*.pdf
+*.docx
+*.log
+*.pem
+*.key
+.pytest_cache/
