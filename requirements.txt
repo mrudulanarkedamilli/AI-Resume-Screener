@@ -9,4 +9,5 @@ pandas
 numpy
 scikit-learn
 plotly
+reportlab
 sentence-transformers
